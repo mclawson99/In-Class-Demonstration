@@ -8,4 +8,4 @@ write stuff here
 
 write more stuff here
 
-<img src="https://github.com/mclawson99/In-Class-Demonstration/blob/main/gsu.jpg" alt="Logo" width="200">
+<img src="https://github.com/mclawson99/In-Class-Demonstration/blob/main/gsu.jpg" alt="Logo" width="500">
