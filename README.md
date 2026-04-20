@@ -1,6 +1,9 @@
 # In-Class-Demonstration
 
-## Smaller
+## Section 1
 
-### Smaller
-Show how to create GitHub repositories.
+write stuff here
+
+## Section 2
+
+write more stuff here
